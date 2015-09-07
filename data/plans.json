@@ -1,100 +1,100 @@
 [
     {
-      title:"Free",
-      features: [
+      "title":"Free",
+      "features": [
         {
-          title:"Published visualizations",
-          value:"10"
+          "title":"Published visualizations",
+          "value":"10"
         },
         {
-          title:"Templates",
-          value:"15"
+          "title":"Templates",
+          "value":"15"
         },
         {
-          title:"Themes",
-          value:"6"
+          "title":"Themes",
+          "value":"6"
         },
         {
-          title:"Template Editor",
-          value:true
+          "title":"Template Editor",
+          "value":true
         },
         {
-          title:"API",
-          value:false
+          "title":"API",
+          "value":false
         },
         {
-          title:"Your Branding",
-          value:false
+          "title":"Your Branding",
+          "value":false
         },
         {
-          title:"Collapborative Editing",
-          value:false
+          "title":"Collapborative Editing",
+          "value":false
         }
       ]
     },
     {
-      title:"Professional",
-      features: [
+      "title":"Professional",
+      "features": [
         {
-          title:"Published visualizations",
-          value:"Unlimited"
+          "title":"Published visualizations",
+          "value":"Unlimited"
         },
         {
-          title:"Templates",
-          value:"40+"
+          "title":"Templates",
+          "value":"40+"
         },
         {
-          title:"Themes",
-          value:"12"
+          "title":"Themes",
+          "value":"12"
         },
         {
-          title:"Template Editor",
-          value:true
+          "title":"Template Editor",
+          "value":true
         },
         {
-          title:"API",
-          value:true
+          "title":"API",
+          "value":true
         },
         {
-          title:"Your Branding",
-          value:true
+          "title":"Your Branding",
+          "value":true
         },
         {
-          title:"Collapborative Editing",
-          value:false
+          "title":"Collapborative Editing",
+          "value":false
         }
       ]
     },
     {
-      title:"Team",
-      features: [
+      "title":"Team",
+      "features": [
         {
-          title:"Published visualizations",
-          value:"Unlimited"
+          "title":"Published visualizations",
+          "value":"Unlimited"
         },
         {
-          title:"Templates",
-          value:"40+"
+          "title":"Templates",
+          "value":"40+"
         },
         {
-          title:"Themes",
-          value:"12+"
+          "title":"Themes",
+          "value":"12+"
         },
         {
-          title:"Template Editor",
-          value:true
+          "title":"Template Editor",
+          "value":true
         },
         {
-          title:"API",
-          value:true
+          "title":"API",
+          "value":true
         },
         {
-          title:"Your Branding",
-          value:true
+          "title":"Your Branding",
+          "value":true
         },
         {
-          title:"Collapborative Editing",
-          value:true
+          "title":"Collapborative Editing",
+          "value":true
         }
       ]
     }
