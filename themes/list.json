@@ -1,0 +1,11 @@
+{
+  "plans":{
+    "Free":["macarons", "infographic", "sakura"],
+    "Professional":["macarons", "macarons2", "infographic", "shine", "dark", "blue", "green", "red", "grey", "helianthus", "mint", "roma", "sakura"],
+    "Team":["macarons", "macarons2", "infographic", "shine", "dark", "blue", "green", "red", "grey", "helianthus", "mint", "roma", "sakura"]
+  },
+  "companies":{
+    "Datamatic":["datamatic"],
+    "SeeNews":["SeeNews1"]
+  }
+}
