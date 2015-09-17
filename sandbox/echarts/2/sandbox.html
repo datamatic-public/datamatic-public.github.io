@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+
+    <title>Datamatic</title>
+    <script type="text/javascript" src="https://apis.google.com/js/api.js"></script>
+
+    <!--[if lte IE 9]>
+      <script type="text/javascript" src="http://datamatic-public.github.io/ie-fixes/ie-fixes.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="sandbox-2.7.css">
+    <script type="text/javascript" src="sandbox-2.7.js"></script>
+</head>
+<body>
+  <div id="visualization-ct">
+    <div id="visualization">
+
+    </div>
+    <a id="watermark" target="_blank" title="The easiest way to create and publish data visualizations"><img src="http://datamatic-public.github.io/sandbox/images/datamatic.png" width="19" height="19" /><span class="watermark-text">DATAMATIC</span></a>
+  </div>
+  <script>
+    var sandbox = new Datamatic.Sandbox();
+    sandbox.init();
+  </script>
+  <svg id="emptysvg" style="display:none" xmlns="http://www.w3.org/2000/svg" version="1.1" height="2" />
+  <div id="svgdownload" style="display:none" />
+</body>
+</html>
