@@ -5,8 +5,8 @@ width="360" height="185">
 <g>
 <text x="175" y="175" style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Sans">300</text>
   <g style="fill:#FA8072" id="SYRIZA">
-    <circle name="1" cx="10.61" cy="175.56" r="4.44"/>
-    <circle name="2" cx="21.73" cy="175.56" r="4.44"/>
+    <circle name="seat1" cx="10.61" cy="175.56" r="4.44"/>
+    <circle name="seat2" cx="21.73" cy="175.56" r="4.44"/>
     <circle cx="32.84" cy="175.56" r="4.44"/>
     <circle cx="43.96" cy="175.56" r="4.44"/>
     <circle cx="55.08" cy="175.56" r="4.44"/>
