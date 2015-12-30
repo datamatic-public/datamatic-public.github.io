@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+width="360" height="185">
+<!-- Created with the Wikimedia parliament diagram creator (http://tools.wmflabs.org/parliamentdiagram/parliamentinputform.html) -->
+<g>
+  <g style="fill:#EEEEEE" id="Empty">
+    <circle cx="17.81" cy="170.01" r="10.00" name="0" data-part="seat"></circle>
+    <circle cx="42.86" cy="170.02" r="10.00" name="1" data-part="seat"></circle>
+    <circle cx="67.94" cy="170.03" r="10.00" name="2" data-part="seat"></circle>
+    <circle cx="93.07" cy="170.04" r="10.00" name="3" data-part="seat"></circle>
+    <circle cx="22.12" cy="141.52" r="10.00" name="4" data-part="seat"></circle>
+    <circle cx="47.57" cy="143.00" r="10.00" name="5" data-part="seat"></circle>
+    <circle cx="73.78" cy="142.93" r="10.00" name="6" data-part="seat"></circle>
+    <circle cx="31.40" cy="114.24" r="10.00" name="7" data-part="seat"></circle>
+    <circle cx="100.75" cy="142.91" r="10.00" name="8" data-part="seat"></circle>
+    <circle cx="57.54" cy="117.46" r="10.00" name="9" data-part="seat"></circle>
+    <circle cx="86.07" cy="118.09" r="10.00" name="10" data-part="seat"></circle>
+    <circle cx="45.35" cy="89.03" r="10.00" name="11" data-part="seat"></circle>
+    <circle cx="72.39" cy="94.41" r="10.00" name="12" data-part="seat"></circle>
+    <circle cx="116.67" cy="119.63" r="10.00" name="13" data-part="seat"></circle>
+    <circle cx="63.54" cy="66.67" r="10.00" name="14" data-part="seat"></circle>
+    <circle cx="104.06" cy="97.00" r="10.00" name="15" data-part="seat"></circle>
+    <circle cx="91.51" cy="74.76" r="10.00" name="16" data-part="seat"></circle>
+    <circle cx="85.39" cy="47.88" r="10.00" name="17" data-part="seat"></circle>
+    <circle cx="114.15" cy="59.29" r="10.00" name="18" data-part="seat"></circle>
+    <circle cx="126.66" cy="80.95" r="10.00" name="19" data-part="seat"></circle>
+    <circle cx="139.16" cy="102.61" r="10.00" name="20" data-part="seat"></circle>
+    <circle cx="110.21" cy="33.25" r="10.00" name="21" data-part="seat"></circle>
+    <circle cx="139.42" cy="48.63" r="10.00" name="22" data-part="seat"></circle>
+    <circle cx="137.23" cy="23.23" r="10.00" name="23" data-part="seat"></circle>
+    <circle cx="152.49" cy="70.91" r="10.00" name="24" data-part="seat"></circle>
+    <circle cx="165.90" cy="93.64" r="10.00" name="25" data-part="seat"></circle>
+    <circle cx="166.29" cy="43.19" r="10.00" name="26" data-part="seat"></circle>
+    <circle cx="165.59" cy="18.14" r="10.00" name="27" data-part="seat"></circle>
+    <circle cx="180.00" cy="67.50" r="10.00" name="28" data-part="seat"></circle>
+    <circle cx="194.41" cy="18.14" r="10.00" name="29" data-part="seat"></circle>
+    <circle cx="193.71" cy="43.19" r="10.00" name="30" data-part="seat"></circle>
+    <circle cx="194.10" cy="93.64" r="10.00" name="31" data-part="seat"></circle>
+    <circle cx="207.51" cy="70.91" r="10.00" name="32" data-part="seat"></circle>
+    <circle cx="222.77" cy="23.23" r="10.00" name="33" data-part="seat"></circle>
+    <circle cx="220.58" cy="48.63" r="10.00" name="34" data-part="seat"></circle>
+    <circle cx="249.79" cy="33.25" r="10.00" name="35" data-part="seat"></circle>
+    <circle cx="220.84" cy="102.61" r="10.00" name="36" data-part="seat"></circle>
+    <circle cx="233.34" cy="80.95" r="10.00" name="37" data-part="seat"></circle>
+    <circle cx="245.85" cy="59.29" r="10.00" name="38" data-part="seat"></circle>
+    <circle cx="274.61" cy="47.88" r="10.00" name="39" data-part="seat"></circle>
+    <circle cx="268.49" cy="74.76" r="10.00" name="40" data-part="seat"></circle>
+    <circle cx="255.94" cy="97.00" r="10.00" name="41" data-part="seat"></circle>
+    <circle cx="296.46" cy="66.67" r="10.00" name="42" data-part="seat"></circle>
+    <circle cx="243.33" cy="119.63" r="10.00" name="43" data-part="seat"></circle>
+    <circle cx="287.61" cy="94.41" r="10.00" name="44" data-part="seat"></circle>
+    <circle cx="314.65" cy="89.03" r="10.00" name="45" data-part="seat"></circle>
+    <circle cx="273.93" cy="118.09" r="10.00" name="46" data-part="seat"></circle>
+    <circle cx="302.46" cy="117.46" r="10.00" name="47" data-part="seat"></circle>
+    <circle cx="259.25" cy="142.91" r="10.00" name="48" data-part="seat"></circle>
+    <circle cx="328.60" cy="114.24" r="10.00" name="49" data-part="seat"></circle>
+    <circle cx="286.22" cy="142.93" r="10.00" name="50" data-part="seat"></circle>
+    <circle cx="312.43" cy="143.00" r="10.00" name="51" data-part="seat"></circle>
+    <circle cx="337.88" cy="141.52" r="10.00" name="52" data-part="seat"></circle>
+    <circle cx="266.93" cy="170.04" r="10.00" name="53" data-part="seat"></circle>
+    <circle cx="292.06" cy="170.03" r="10.00" name="54" data-part="seat"></circle>
+    <circle cx="317.14" cy="170.02" r="10.00" name="55" data-part="seat"></circle>
+    <circle cx="342.19" cy="170.01" r="10.00" name="56" data-part="seat"></circle>
+  </g>
+</g>
+</svg>
