@@ -4,9 +4,6 @@ xmlns="http://www.w3.org/2000/svg" version="1.1"
 width="360" height="185">
 <!-- Created with the Wikimedia parliament diagram creator (http://tools.wmflabs.org/parliamentdiagram/parliamentinputform.html) -->
 <g>
-<text x="175" y="175" style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Sans">81</text>
-<g>
-<text x="175" y="175" style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Sans">81</text>
   <g style="fill:#EEEEEE" id="Empty">
     <circle cx="15.19" cy="172.01" r="8.00" name="0" data-part="seat"></circle>
     <circle cx="35.22" cy="172.01" r="8.00" name="1" data-part="seat"></circle>
