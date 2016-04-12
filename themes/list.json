@@ -6,6 +6,7 @@
   },
   "companies":{
     "Datamatic":["datamatic"],
-    "SeeNews":["SeeNews1", "SeeNews2", "SeeNews3", "SeeNews4", "SeeNews5"]
+    "SeeNews":["SeeNews1", "SeeNews2", "SeeNews3", "SeeNews4", "SeeNews5"],
+    "CTK":["CeskeNoviny", "IDnes"]
   }
 }
