@@ -1,0 +1,5 @@
+<root>
+	<node name="item 1" value="10" />
+	<node name="item 2" value="20" />
+	<node name="item 3" value="30" />
+</root>
