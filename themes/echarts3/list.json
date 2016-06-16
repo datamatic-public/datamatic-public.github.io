@@ -1,10 +1,10 @@
 {
   "plans":{
     "Free":["dark", "vintage", "macarons"],
-    "Professional":["dark", "vintage", "macarons", "infographic", "roma", "shine"],
-    "Team":["dark", "vintage", "macarons", "infographic", "roma", "shine"]
+    "Professional":["custom", "dark", "vintage", "macarons", "infographic", "roma", "shine"],
+    "Team":["custom", "dark", "vintage", "macarons", "infographic", "roma", "shine"]
   },
   "companies":{
-    "CTK":["CeskeNoviny"]
+    
   }
 }
